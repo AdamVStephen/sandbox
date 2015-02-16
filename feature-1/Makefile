@@ -1,1 +1,4 @@
-Build it
+#Build it
+
+feature : feature.c
+	gcc -o $@ $<
