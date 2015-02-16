@@ -12,3 +12,10 @@ The first exercise involves each user creating their own feature branches and me
 
 A new really cool feature implemented in C is under production on branch feature-1.
 =======
+
+
+hotfix-3
+========
+
+These 4 lines should be associated with the hotfix-3 branch, which is under development, but which will be incorreectly
+committed to the master branch to demonstrate how to rewrite history.
