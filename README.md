@@ -27,4 +27,13 @@ An exercise to tollow the tutorial at http://vimcasts.org/episodes/fugitive-vim-
 
 This paragraph represents an addition made on the master branch.
 
+# More Changes
 
+These changes to the README.md file come from the learning-hs feature branch and are
+
+=======
+
+# More Changes
+
+These changes to the README.md file come from the learning-hs feature branch and are
+expected to conflict with the master branch.
