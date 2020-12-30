@@ -19,3 +19,12 @@ hotfix-3
 
 These 4 lines should be associated with the hotfix-3 branch, which is under development, but which will be incorreectly
 committed to the master branch to demonstrate how to rewrite history.
+
+
+# Using Fugitive in Vim
+
+An exercise to tollow the tutorial at http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/
+
+This paragraph represents an addition made on the master branch.
+
+
