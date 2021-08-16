@@ -1,0 +1,7 @@
+A this is a line beginning with A
+A this is a line beginning with A 2
+A this is a line beginning with A 3
+
+B this is a line beginning with B
+B this is a line beginning with B 2
+B this is a line beginning with B 3
